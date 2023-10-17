@@ -18,16 +18,18 @@ License
 Features
 Predicts house prices based on user inputs.
 Provides a simple and intuitive user interface.
-Demo
-Add screenshots, GIFs, or a link to a live demo of your application.
+.
+
+![image](https://github.com/mr-yash-aggarwal/House_prediction_model/assets/125944406/d1c7953f-9417-4a24-9b12-7d9933e68cb2)
+
 
 Installation
 Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your_username/your_repo_name.git
-cd your_repo_name
+git clone https://github.com/mr-yash-aggarwal/house_prediction_model.git
+cd house_prediction_model
 Install the required dependencies using pip:
 
 bash
